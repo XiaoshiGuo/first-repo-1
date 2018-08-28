@@ -12,3 +12,6 @@ first repository, just to try things out
 - seafood
 
 # **I am excited to learn more about R in this class!**
+
+
+Xiaoshi Guo eidting 
